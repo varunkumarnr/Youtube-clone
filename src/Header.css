@@ -1,8 +1,43 @@
 .header{
     display: flex;
     align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    position: static;
+    top:0;
+    z-index: 100;
+    background-color: white;
 }
 .header-logo{
     height: 25px;
     object-fit: contain;
+    margin-left: 20px;
+}
+.header-left{
+    display: flex;
+    align-items: center;
+}
+.header-middle{
+    display: flex;
+    align-items: center;
+    width:40%;
+    border: 1px solid black;
+}
+.header-right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-middle > input {
+    flex: 1;
+    border: none;
+}
+.header-inputbutton{
+    width: 40px !important;
+    background-color: #fafafa;
+    border-left: 1px solid lightgray;
+    color: gray;
+}
+.header-icon{
+    margin-right: 8px;
 }
