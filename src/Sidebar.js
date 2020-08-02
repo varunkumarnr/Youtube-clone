@@ -23,6 +23,7 @@ function Sidebar() {
             <SidebarRow Icon={WatchLaterIcon} title="Watch Later" />
             <SidebarRow Icon={ThumbUpIcon} title="Liked Videos" />
             <SidebarRow Icon={ExpandMoreIcon} title="Show More" />
+            <hr />
         </div>
     )
 }

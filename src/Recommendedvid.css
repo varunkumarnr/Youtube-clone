@@ -1,3 +1,14 @@
 .recommendedsection{
-    flex:0.8
+    flex:0.85;
+    background-color:#f9f9f9;
+    padding: 40px 20px
+}
+.recommendedsection>h2{
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+.recommendedvideos{
+    display: flex;
+    flex-wrap: wrap;
+    
 }
