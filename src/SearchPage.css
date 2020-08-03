@@ -20,3 +20,10 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
+.latest{
+    display: flex;
+    align-items: center;
+    color: black;
+    margin: 10px;
+    font-size: xx-small !important;
+}
