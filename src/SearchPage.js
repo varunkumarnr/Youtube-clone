@@ -25,12 +25,23 @@ function SearchPage() {
             </div>
             <SearchVideo 
                 thumbnail = "https://i.ytimg.com/vi/SlJZLLnhR7k/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCs87j1TBxJkuokgvkxGbTl7bnR4w"
-                tilte = "This is Unacceptable"
+                title = "This is Unacceptable"
                 channel = "PewDiePie"
-                verified
+                subs = "104M"
                 views = "5.1M" 
                 timestamp = "10 hours ago"
                 decription = "Not epic floor gang announcement Floor Gang Merch! https://represent.com/store/pewdiepie (Thank you) Subscribe to become a ...."
+
+            />
+            <SearchVideo 
+                thumbnail = "https://i.ytimg.com/vi/SlJZLLnhR7k/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCs87j1TBxJkuokgvkxGbTl7bnR4w"
+                title = "This is Unacceptable"
+                channel = "PewDiePie"
+                subs = "104M"
+                views = "5.1M" 
+                timestamp = "10 hours ago"
+                decription = "Not epic floor gang announcement Floor Gang Merch! https://represent.com/store/pewdiepie (Thank you) Subscribe to become a ...."
+
             />
           
         </div>

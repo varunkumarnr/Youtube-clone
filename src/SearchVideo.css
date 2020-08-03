@@ -1,0 +1,39 @@
+.SearchVideo{
+    display: flex;
+    margin-bottom: 30px;
+    max-width: 700px;    
+}
+.SearchVideo>img{
+    object-fit: cover;
+    width: 246px;
+    height: 138px;
+}
+.SearchVideo-Text{
+    margin-left: 14px;
+}
+.VideoSearch-desc{
+    margin-top: 10px;
+    font-size: 12px;
+    color: #606060;
+}
+.VideoSearch-info{
+    font-size: 12px;
+    color: #606060;
+}
+.VideoSearch-info-subs{
+    font-weight: bolder;
+    color: rgb(84, 157,211);
+}
+.VideoSearch-Subs-Container{
+    background-color: lightgray;
+    padding: 2px;
+
+}
+.VideoSearch-new-badge{
+    
+    font-size:  13px;
+    color: #606060;
+    background-color: lightgray;
+    padding: 1px;
+    
+}
